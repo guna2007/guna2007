@@ -1,0 +1,52 @@
+<svg width="1280" height="260" viewBox="0 0 1280 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#070D19"/>
+      <stop offset="1" stop-color="#0B1326"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="260" rx="18" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1278" height="258" rx="17" stroke="#21365D"/>
+  <text x="30" y="56" fill="#DDEBFF" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700">Ledger-Core</text>
+  <text x="30" y="86" fill="#7DDFFF" font-family="Segoe UI, Arial, sans-serif" font-size="16" letter-spacing="1.2">ENTERPRISE BANKING SYSTEM</text>
+  <text x="30" y="128" fill="#AFBFDA" font-family="Consolas, Menlo, monospace" font-size="15">Secure backend for account management, transfers, loan workflows, and role-based access.</text>
+  <text x="30" y="152" fill="#AFBFDA" font-family="Consolas, Menlo, monospace" font-size="15">JWT auth, OTP verification, BCrypt hashing, DTO architecture, React dashboards.</text>
+
+  <g transform="translate(30,185)">
+    <rect width="66" height="28" rx="14" fill="#10263B"/>
+    <text x="33" y="19" text-anchor="middle" fill="#D8E6FA" font-family="Segoe UI, Arial, sans-serif" font-size="13">Java</text>
+  </g>
+  <g transform="translate(106,185)">
+    <rect width="112" height="28" rx="14" fill="#10263B"/>
+    <text x="56" y="19" text-anchor="middle" fill="#D8E6FA" font-family="Segoe UI, Arial, sans-serif" font-size="13">Spring Boot</text>
+  </g>
+  <g transform="translate(228,185)">
+    <rect width="130" height="28" rx="14" fill="#10263B"/>
+    <text x="65" y="19" text-anchor="middle" fill="#D8E6FA" font-family="Segoe UI, Arial, sans-serif" font-size="13">Spring Security</text>
+  </g>
+  <g transform="translate(368,185)">
+    <rect width="134" height="28" rx="14" fill="#10263B"/>
+    <text x="67" y="19" text-anchor="middle" fill="#D8E6FA" font-family="Segoe UI, Arial, sans-serif" font-size="13">Spring Data JPA</text>
+  </g>
+  <g transform="translate(512,185)">
+    <rect width="92" height="28" rx="14" fill="#10263B"/>
+    <text x="46" y="19" text-anchor="middle" fill="#D8E6FA" font-family="Segoe UI, Arial, sans-serif" font-size="13">Hibernate</text>
+  </g>
+  <g transform="translate(614,185)">
+    <rect width="78" height="28" rx="14" fill="#10263B"/>
+    <text x="39" y="19" text-anchor="middle" fill="#D8E6FA" font-family="Segoe UI, Arial, sans-serif" font-size="13">React</text>
+  </g>
+  <g transform="translate(702,185)">
+    <rect width="78" height="28" rx="14" fill="#10263B"/>
+    <text x="39" y="19" text-anchor="middle" fill="#D8E6FA" font-family="Segoe UI, Arial, sans-serif" font-size="13">MySQL</text>
+  </g>
+  <g transform="translate(790,185)">
+    <rect width="66" height="28" rx="14" fill="#10263B"/>
+    <text x="33" y="19" text-anchor="middle" fill="#D8E6FA" font-family="Segoe UI, Arial, sans-serif" font-size="13">JWT</text>
+  </g>
+
+  <a href="https://github.com/guna2007/ledger-core">
+    <rect x="1100" y="32" width="148" height="36" rx="18" fill="#00E5FF"/>
+    <text x="1174" y="55" text-anchor="middle" fill="#07111F" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">VIEW REPO</text>
+  </a>
+</svg>

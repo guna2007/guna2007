@@ -1,0 +1,64 @@
+<svg width="1280" height="500" viewBox="0 0 1280 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="500" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#05070F"/>
+      <stop offset="1" stop-color="#0A1224"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="380" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D162A"/>
+      <stop offset="1" stop-color="#0B1325"/>
+    </linearGradient>
+    <linearGradient id="meter" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#00E5FF"/>
+      <stop offset="1" stop-color="#00FFA3"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="500" rx="22" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1278" height="498" rx="21" stroke="#1C2B4A"/>
+
+  <text x="42" y="56" fill="#DCEAFF" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">Distributed Systems Dashboard</text>
+  <text x="42" y="84" fill="#8EA9CF" font-family="Consolas, Menlo, monospace" font-size="15">Architecture themes from current backend focus</text>
+
+  <g transform="translate(42,118)">
+    <rect width="384" height="154" rx="14" fill="url(#card)" stroke="#22385F"/>
+    <text x="20" y="34" fill="#9CD9FF" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600">Service Throughput</text>
+    <text x="20" y="61" fill="#D7E7FF" font-family="Consolas, Menlo, monospace" font-size="14">API Gateway</text>
+    <rect x="140" y="50" width="214" height="12" rx="6" fill="#13213C"/>
+    <rect x="140" y="50" width="168" height="12" rx="6" fill="url(#meter)"/>
+    <text x="20" y="92" fill="#D7E7FF" font-family="Consolas, Menlo, monospace" font-size="14">Event Pipeline</text>
+    <rect x="140" y="81" width="214" height="12" rx="6" fill="#13213C"/>
+    <rect x="140" y="81" width="182" height="12" rx="6" fill="url(#meter)"/>
+    <text x="20" y="123" fill="#D7E7FF" font-family="Consolas, Menlo, monospace" font-size="14">Read Cache</text>
+    <rect x="140" y="112" width="214" height="12" rx="6" fill="#13213C"/>
+    <rect x="140" y="112" width="154" height="12" rx="6" fill="url(#meter)"/>
+  </g>
+
+  <g transform="translate(448,118)">
+    <rect width="384" height="154" rx="14" fill="url(#card)" stroke="#22385F"/>
+    <text x="20" y="34" fill="#9CD9FF" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600">Reliability Signals</text>
+    <text x="20" y="64" fill="#D7E7FF" font-family="Consolas, Menlo, monospace" font-size="14">Auth Boundary</text>
+    <text x="250" y="64" fill="#00FFA3" font-family="Consolas, Menlo, monospace" font-size="14">stable</text>
+    <text x="20" y="93" fill="#D7E7FF" font-family="Consolas, Menlo, monospace" font-size="14">Idempotency Layer</text>
+    <text x="250" y="93" fill="#00E5FF" font-family="Consolas, Menlo, monospace" font-size="14">active</text>
+    <text x="20" y="122" fill="#D7E7FF" font-family="Consolas, Menlo, monospace" font-size="14">Service Discovery</text>
+    <text x="250" y="122" fill="#00FFA3" font-family="Consolas, Menlo, monospace" font-size="14">healthy</text>
+  </g>
+
+  <g transform="translate(854,118)">
+    <rect width="384" height="154" rx="14" fill="url(#card)" stroke="#22385F"/>
+    <text x="20" y="34" fill="#9CD9FF" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600">Engineering Priorities</text>
+    <text x="20" y="64" fill="#D7E7FF" font-family="Consolas, Menlo, monospace" font-size="14">1. Secure API boundaries</text>
+    <text x="20" y="93" fill="#D7E7FF" font-family="Consolas, Menlo, monospace" font-size="14">2. Event-driven consistency</text>
+    <text x="20" y="122" fill="#D7E7FF" font-family="Consolas, Menlo, monospace" font-size="14">3. AI-powered backend tooling</text>
+  </g>
+
+  <g transform="translate(42,292)">
+    <rect width="1196" height="170" rx="14" fill="#091126" stroke="#22385F"/>
+    <text x="22" y="36" fill="#9CD9FF" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600">System Focus Grid</text>
+    <text x="22" y="68" fill="#D7E7FF" font-family="Consolas, Menlo, monospace" font-size="14">Gateway + Discovery + Messaging + Caching + Security + Observability mindset</text>
+    <line x1="22" y1="88" x2="1174" y2="88" stroke="#1B2D50"/>
+    <text x="22" y="118" fill="#AFC4E5" font-family="Consolas, Menlo, monospace" font-size="13">Spring Cloud Gateway | Eureka | Kafka | Redis | Spring Security | JWT | JUnit</text>
+    <text x="22" y="144" fill="#AFC4E5" font-family="Consolas, Menlo, monospace" font-size="13">Designing maintainable microservices with clean contracts and resilient workflows.</text>
+  </g>
+</svg>

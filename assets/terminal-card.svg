@@ -1,0 +1,30 @@
+<svg width="1280" height="330" viewBox="0 0 1280 330" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050913"/>
+      <stop offset="1" stop-color="#091123"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1280" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#12233D"/>
+      <stop offset="1" stop-color="#0F1B32"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="330" rx="20" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1278" height="328" rx="19" stroke="#1F3155"/>
+  <rect width="1280" height="44" rx="20" fill="url(#bar)"/>
+  <circle cx="28" cy="22" r="6" fill="#FF5F57"/>
+  <circle cx="50" cy="22" r="6" fill="#FEBB2E"/>
+  <circle cx="72" cy="22" r="6" fill="#28C840"/>
+  <text x="640" y="28" text-anchor="middle" fill="#8EA6CA" font-family="Consolas, Menlo, monospace" font-size="14">backend-console://whoami</text>
+
+  <text x="36" y="82" fill="#7EE8FF" font-family="Consolas, Menlo, monospace" font-size="20">guna@backend:~$ whoami</text>
+  <text x="36" y="112" fill="#DDE7F6" font-family="Consolas, Menlo, monospace" font-size="19">Lankalapalli Guna Sai Charan Teja</text>
+
+  <text x="36" y="152" fill="#7EE8FF" font-family="Consolas, Menlo, monospace" font-size="20">guna@backend:~$ profile --role --focus</text>
+  <text x="36" y="182" fill="#DDE7F6" font-family="Consolas, Menlo, monospace" font-size="19">Java Backend Engineer | Secure, scalable microservices</text>
+
+  <text x="36" y="222" fill="#7EE8FF" font-family="Consolas, Menlo, monospace" font-size="20">guna@backend:~$ stack --core</text>
+  <text x="36" y="252" fill="#DDE7F6" font-family="Consolas, Menlo, monospace" font-size="19">Spring Boot · Spring Security · Spring Cloud · Kafka · Redis · Spring AI MCP</text>
+
+  <text x="36" y="292" fill="#7EE8FF" font-family="Consolas, Menlo, monospace" font-size="20">guna@backend:~$ _</text>
+</svg>

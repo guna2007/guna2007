@@ -1,0 +1,19 @@
+<svg width="1280" height="180" viewBox="0 0 1280 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="180" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#070D19"/>
+      <stop offset="1" stop-color="#05070F"/>
+    </linearGradient>
+    <linearGradient id="line" x1="100" y1="34" x2="1180" y2="34" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00E5FF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#00E5FF" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#00E5FF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="180" rx="22" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1278" height="178" rx="21" stroke="#1A2742"/>
+  <line x1="100" y1="34" x2="1180" y2="34" stroke="url(#line)" stroke-width="2"/>
+  <text x="640" y="88" text-anchor="middle" fill="#D9E8FF" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="600">Designing resilient systems, one service at a time.</text>
+  <text x="640" y="122" text-anchor="middle" fill="#8CA6CC" font-family="Consolas, Menlo, monospace" font-size="17">Java • Spring Boot • Kafka • Redis • Spring AI MCP</text>
+  <text x="640" y="150" text-anchor="middle" fill="#6F88AB" font-family="Segoe UI, Arial, sans-serif" font-size="13">Made for GitHub profile repository by Guna</text>
+</svg>

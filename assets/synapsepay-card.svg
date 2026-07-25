@@ -1,0 +1,54 @@
+<svg width="1280" height="260" viewBox="0 0 1280 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#070D19"/>
+      <stop offset="1" stop-color="#0B1326"/>
+    </linearGradient>
+    <linearGradient id="tag" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#00E5FF"/>
+      <stop offset="1" stop-color="#00FFA3"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="260" rx="18" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1278" height="258" rx="17" stroke="#21365D"/>
+  <text x="30" y="56" fill="#DDEBFF" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700">SynapsePay</text>
+  <text x="30" y="86" fill="#7DDFFF" font-family="Segoe UI, Arial, sans-serif" font-size="16" letter-spacing="1.2">EVENT-DRIVEN MICROSERVICES PAYMENT PLATFORM</text>
+  <text x="30" y="128" fill="#AFBFDA" font-family="Consolas, Menlo, monospace" font-size="15">Kafka-based async workflows, Redis idempotency, Spring AI MCP agent execution,</text>
+  <text x="30" y="152" fill="#AFBFDA" font-family="Consolas, Menlo, monospace" font-size="15">Spring AOP security boundaries, and secure payment lifecycle orchestration.</text>
+
+  <g transform="translate(30,185)">
+    <rect width="88" height="28" rx="14" fill="#10263B"/>
+    <text x="44" y="19" text-anchor="middle" fill="#D8E6FA" font-family="Segoe UI, Arial, sans-serif" font-size="13">Java 21</text>
+  </g>
+  <g transform="translate(128,185)">
+    <rect width="112" height="28" rx="14" fill="#10263B"/>
+    <text x="56" y="19" text-anchor="middle" fill="#D8E6FA" font-family="Segoe UI, Arial, sans-serif" font-size="13">Spring Boot 3</text>
+  </g>
+  <g transform="translate(250,185)">
+    <rect width="80" height="28" rx="14" fill="#10263B"/>
+    <text x="40" y="19" text-anchor="middle" fill="#D8E6FA" font-family="Segoe UI, Arial, sans-serif" font-size="13">Kafka</text>
+  </g>
+  <g transform="translate(340,185)">
+    <rect width="76" height="28" rx="14" fill="#10263B"/>
+    <text x="38" y="19" text-anchor="middle" fill="#D8E6FA" font-family="Segoe UI, Arial, sans-serif" font-size="13">Redis</text>
+  </g>
+  <g transform="translate(426,185)">
+    <rect width="130" height="28" rx="14" fill="#10263B"/>
+    <text x="65" y="19" text-anchor="middle" fill="#D8E6FA" font-family="Segoe UI, Arial, sans-serif" font-size="13">Spring AI MCP</text>
+  </g>
+  <g transform="translate(566,185)">
+    <rect width="156" height="28" rx="14" fill="#10263B"/>
+    <text x="78" y="19" text-anchor="middle" fill="#D8E6FA" font-family="Segoe UI, Arial, sans-serif" font-size="13">Spring Cloud Gateway</text>
+  </g>
+  <g transform="translate(732,185)">
+    <rect width="78" height="28" rx="14" fill="#10263B"/>
+    <text x="39" y="19" text-anchor="middle" fill="#D8E6FA" font-family="Segoe UI, Arial, sans-serif" font-size="13">MySQL</text>
+  </g>
+  <g transform="translate(820,185)">
+    <rect width="84" height="28" rx="14" fill="#10263B"/>
+    <text x="42" y="19" text-anchor="middle" fill="#D8E6FA" font-family="Segoe UI, Arial, sans-serif" font-size="13">Docker</text>
+  </g>
+
+  <rect x="1100" y="32" width="148" height="36" rx="18" fill="url(#tag)"/>
+  <text x="1174" y="55" text-anchor="middle" fill="#07111F" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">FLAGSHIP</text>
+</svg>
